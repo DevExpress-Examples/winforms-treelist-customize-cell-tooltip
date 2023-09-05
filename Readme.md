@@ -40,4 +40,3 @@ private void toolTipController1_GetActiveObjectInfo(object sender, DevExpress.Ut
 * [How to programmatically display a tooltip for a control via the ToolTipController component](https://supportcenter.devexpress.com/ticket/details/a555/how-to-programmatically-display-a-tooltip-for-a-control-via-the-tooltipcontroller)
 * [How to display a hint for an active editor within the XtraGrid](https://supportcenter.devexpress.com/ticket/details/a2008/how-to-display-a-hint-for-an-active-editor-within-the-xtragrid)
 * [How to display hints only for particular cells](https://supportcenter.devexpress.com/ticket/details/a2566/how-to-display-hints-only-for-particular-cells)
-* []()
