@@ -6,7 +6,7 @@
 
 # WinForms TreeList - Customize cell tooltips (hints)
 
-This example shows how to handle the [ToolTipController.GetActiveObjectInfo](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.ToolTipController.GetActiveObjectInfo) event to customize the tooltips displayed fot TreeList cells:
+This example shows how to handle the [ToolTipController.GetActiveObjectInfo](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.ToolTipController.GetActiveObjectInfo) event to customize the tooltips displayed for TreeList cells:
 
 ```csharp
 private void toolTipController1_GetActiveObjectInfo(object sender, DevExpress.Utils.ToolTipControllerGetActiveObjectInfoEventArgs e) {
