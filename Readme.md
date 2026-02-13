@@ -42,7 +42,7 @@ private void toolTipController1_GetActiveObjectInfo(object sender, DevExpress.Ut
 * [How to display a hint for an active editor within the XtraGrid](https://supportcenter.devexpress.com/ticket/details/a2008/how-to-display-a-hint-for-an-active-editor-within-the-xtragrid)
 * [How to display hints only for particular cells](https://supportcenter.devexpress.com/ticket/details/a2566/how-to-display-hints-only-for-particular-cells)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-treelist-customize-cell-tooltip&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-treelist-customize-cell-tooltip&~~~was_helpful=no)
 
